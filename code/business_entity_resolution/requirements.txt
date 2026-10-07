@@ -1,0 +1,5 @@
+polars==1.44.2
+rapidfuzz==3.14.6
+numpy==2.5.3
+unidecode==1.4.0
+lightgbm==4.7.0
